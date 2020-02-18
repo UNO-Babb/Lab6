@@ -21,7 +21,7 @@ Lines: 12
 Words: 48
 Characters:249
 ```
-
+---
 ### WordIndex.py
 We want to create a word index that keeps record of every word in a file, and what line numbers that word can be found on.
 Using dictionaries in python, each word will have an associated list of line numbers.
