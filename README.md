@@ -1,6 +1,5 @@
 # Lab 6 - CYBR 2980
 
-
 ### DiceRoll.py
 Statistical analysis of dice rolls.
 Create a simulation that rolls 2 dice and finds thier total.
