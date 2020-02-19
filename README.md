@@ -2,7 +2,7 @@
 
 ### DiceRoll.py
 Statistical analysis of dice rolls.
-Create a simulation that rolls 2 dice and finds thier total.
+Create a simulation that rolls 2 dice and finds their total.
 This simulation should run at least 10,000 times.
 Once complete, the distribution of totals should be displayed.
 Display the values both as a count (how many) and a percentage of rolls.
