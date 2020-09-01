@@ -33,8 +33,8 @@ This signifies that the word 'hello' is on lines 2 and 5; the word 'world' is on
 You should be able to print each word followed by the page line numbers of those words, like an index at the back of a textbook.
 
 ---
-### Testing your code
+## Testing your code
 You may not actually know that your code works until you fully test what you have written. It is often a good idea to get someone else to run your program, they may do something you had not anticipated which could show you a possible flaw or at least a design issue.
 
-### End of class
-Use Atom Git window to stage changes and push. If you are not done, you will still want to push changes so you can continue to work on this later.
+## End of class
+In Repl.it, you will find the share link to your code. That is what gets submitted to Canvas.
