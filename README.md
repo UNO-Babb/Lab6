@@ -1,4 +1,4 @@
-# Lab 6 - CYBR 2980
+# Lab 6 - CIST 1600
 
 ### DiceRoll.py
 Statistical analysis of dice rolls.

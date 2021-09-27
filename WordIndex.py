@@ -6,7 +6,6 @@
 def main():
     textFile = open("fish.txt", 'r')
 
-
     words = {} #create an empty dictionary
 
 
