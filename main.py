@@ -1,10 +1,8 @@
-import BasicEnigma
-import CaesarCipher
-import LetterFrequency
-import WordGame
+import DiceRoll
+import WordCount
+import WordIndex
 
 
-CaesarCipher.main()
-#LetterFrequency.main()
-#WordGame.main()
-#BasicEnigma.main()
+DiceRoll.main()
+#WordCount.main()
+#WordIndex.main()
